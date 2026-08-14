@@ -20,7 +20,7 @@ Turso, keep the same repository boundaries and swap only the database adapter.
   fail fast when a required variable is missing; do not expose them through
   `NEXT_PUBLIC_*`.
 
-## Repository shape
+## Folder structure
 
 ```text
 src/app/                 routes, layouts, loading and error boundaries
